@@ -33,4 +33,4 @@ The verification environment is implemented in SystemVerilog and uses a traditio
 *   **Transaction:** `transaction.sv` - Defines the format of the data being sent to and received from the DUT.
 
 ## Test Bench Architecture
-![Architecture](Waveform.png)
+![Architecture](sv_simple_tb_with_scb.png)
